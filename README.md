@@ -28,18 +28,35 @@ Assignments of the Artificial Intelligence course offered in Fall 2020 at Clemso
   - Activation functions
   - Backpropagation
   - Multi-layer feed-forward neural networks
-- Advanced topics
-  - Deep reinforcement learning
-  - Robotics/graphics applications
 
 # Assignments
-## [Project 1 Search Algorithms](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/tree/master/1-Search-Algorithms)
+## [Search Algorithms](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/tree/master/1-Search-Algorithms)
 
 - Depth First Search
-![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Depth-first-search.gif )
+  <img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Depth-first-search.gif" width="400" />
 
 - Uniform Cost Search
-![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Uniform-cost-search.gif)
+<img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Uniform-cost-search.gif" width="400" />
 
 - A-star Search
-![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Astar-search.gif)
+<img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Astar-search.gif" width="400" />
+
+## Adversarial Games
+Opponent is playing optimally.
+- Minimax (left)
+- Alpha-Beta Pruning : Notice the improvements in the speed
+<p float="left">
+<img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/2-Adversarial-Games/Minimax.gif" width="400" />
+<img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/2-Adversarial-Games/Alpha-Beta-Pruning.gif" width="400" />
+</p>
+
+- Expectimax : Opponent plays sub-optimally
+<img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/2-Adversarial-Games/Expectimax.gif" width="400" />
+
+## Hidden Markov Models Based Localization
+- Exact Inference: Obtains probabilies of an agent's location across all cells 
+- Particle Filter: Approximates the agent's location by using a distribution of a set of samples
+<p float="left">
+<img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/3-Hidden-Markov-Models-Localization/Exact-Inference.gif" width="400" />
+<img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/3-Hidden-Markov-Models-Localization/Particle-Filter.gif" width="400" />
+</p>
