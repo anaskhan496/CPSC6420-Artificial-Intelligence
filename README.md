@@ -33,7 +33,7 @@ Assignments of the Artificial Intelligence course offered in Fall 2020 at Clemso
 ## [Search Algorithms](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/tree/master/1-Search-Algorithms)
 
 - Depth First Search
-  <img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Depth-first-search.gif" width="400" />
+ <img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Depth-first-search.gif" width="400" />
 
 - Uniform Cost Search
 <img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Uniform-cost-search.gif" width="400" />
