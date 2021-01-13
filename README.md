@@ -28,16 +28,18 @@ Assignments of the Artificial Intelligence course offered in Fall 2020 at Clemso
   - Activation functions
   - Backpropagation
   - Multi-layer feed-forward neural networks
+- Advanced topics
+  - Deep reinforcement learning
+  - Robotics/graphics applications
 
 # Assignments
-## [Search Algorithms](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/tree/master/1-Search-Algorithms)
+## [Project 1 Search Algorithms](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/tree/master/1-Search-Algorithms)
 
 - Depth First Search
- <img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Depth-first-search.gif" width="450" />
- 
-- Uniform Cost Search
- <img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Uniform-cost-search.gif" width="450" />
- 
-- A-star Search
- <img src="https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Astar-search.gif" width="450" />
+![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Depth-first-search.gif )
 
+- Uniform Cost Search
+![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Uniform-cost-search.gif)
+
+- A-star Search
+![](https://github.com/anaskhan496/CPSC6420-Artificial-Intelligence/blob/master/1-Search-Algorithms/Astar-search.gif)
